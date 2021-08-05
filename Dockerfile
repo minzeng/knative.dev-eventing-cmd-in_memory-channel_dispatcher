@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_dispatcher@sha256:d271dc40ef6d1161b28b0b61dfa71583e89ad6c8847adeede1a8504fb8f5b908
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_dispatcher@sha256:c60fdccc2eb4d9ce0687c7402e11a74b0051ea4374740fa99f1a402de3229c8e
